@@ -1,3 +1,3 @@
-# Unity-Git
+# Unity
 
-Склонируй этот репозиторий себе на комп и открой с помощью Unity
+Just testing some things
